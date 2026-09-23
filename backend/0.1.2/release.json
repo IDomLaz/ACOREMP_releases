@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.2",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.2-win-x64/acoremp-backend-0.1.2-win-x64.bin",
+  "asset": "acoremp-backend-0.1.2-win-x64.bin",
+  "size_bytes": 50006441,
+  "sha256_encrypted": "6e87960efd86e6eff1591654e654a2b5c906fe7dfc57f178e36e6ce7c1796c6a",
+  "sha256_plain": "3ad8adbe311db59d12ab7ab17b324324d4498f9e17a8f97979444f0f65bbf469",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "c52acfc36279e4453cb6360de6a236f57dbc79ae",
+  "source_tag": "v0.1.2",
+  "published_at": "2026-09-23T13:11:44.2761181Z",
+  "notes": "- D52: pesta├▒a App del panel, el updater publica la APK y el backend la sirve por LAN; CSS versionado"
+}
