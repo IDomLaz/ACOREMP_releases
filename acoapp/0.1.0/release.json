@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.1.0",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.1.0/acoapp-0.1.0.bin",
+  "asset": "acoapp-0.1.0.bin",
+  "size_bytes": 72202804,
+  "sha256_encrypted": "17444604393ba1d1db608068eac25f3f85cad2089c25e8c50f83c178d6d37ddb",
+  "sha256_plain": "a3b03e1d95e3192bfc1b1b5cbfa35caf958d6844c984025bd1f4782678daa999",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "96e1758ceddc5c5b971f429373e501daf526abe8",
+  "source_tag": "v0.1.0",
+  "published_at": "2026-09-23T08:49:14.9375311Z",
+  "notes": "- D52: identificador es.acoremp.acoapp y firma de release con keystore propio\n- D52: URL del servidor e idioma configurables en el dispositivo, y versi├│n de la app\n- A├▒ade ESTADO.md con el estado actual de ACOAPP\n- Separa ACOAPP en su propio repositorio\n- Selector de planta redise├▒ado, ajustes en men├║/pie y D51: preferencias de usuario + login de proveedor en ACOAPP\n- D50: casamiento por efecto en Salidas, Entradas varias y Devoluciones\n- Reorganiza la documentaci├│n en General, Backend, Cliente, Proveedor y AppLogistica\n- Corrige segundo crash en dispose de Entrada Varia: context.read tambien es inseguro ahi\n- Corrige crash al salir de Entrada Varia: AppShellController.of en dispose\n- Limpieza de estilo, apunta backend a la IP de LAN y excluye backend/publish\n- Corrige crash al seleccionar de un GenericDropdown anclado\n- Corrige mas precargas eager por el IndexedStack del shell (Devoluciones y Archivados)\n- Entrada Varia ya no precarga el catalogo al arrancar la app\n- Quita las precargas que ya no hacian nada (no-op desde D42)\n- Al fijar proveedor en Devoluciones, carga el resto de su historico paginado\n- Muestra el nombre del proveedor en la cabecera de cada recepcion de Devoluciones\n- Devuelve el checkbox de cabecera de cada recepcion en Devoluciones\n- Paginacion perezosa de verdad en Devoluciones: sin precarga, buscador en servidor, sin seleccionar todos y stock bajo demanda\n- Quita la precarga automatica de Devoluciones al arrancar la app\n- Para la carga en segundo plano de Devoluciones al salirse del periodo mostrado\n- Muestra el numero de recepcion en la pantalla de exito y retira el circuito GraphQL huerfano de plantas\n- Devoluciones detras del backend, casamiento de recepciones por efecto y acceso de provider_admin al panel (D46, D47, D48)\n- Captura excepciones silenciosas al confirmar una entrada varia\n- Corrige deteccion de teclado y solape del aviso de inactividad, y lo desactiva de momento (Q15)\n- Catalogo de articulos de Entradas varias detras del backend (D47)\n- Salidas y Entradas varias detras del backend (D44/D45); acceso de provider_admin al panel del cliente (D46, 026)\n- Cambio de stock detras del backend (D43): lectura, escritura y verificacion por efecto\n- Recepciones detras del backend: el desplegable de impresoras (D42, fase 3)\n- Recepciones detras del backend: la escritura (D42, fase 2)\n- Recepciones detras del backend: toda la lectura (D42, fase 1)\n- Autorizaciones de X3: de la vista YVAUZ al menu de ACOAPP (D40, D41)\n- Panel del proveedor, panel del cliente y login de ACOAPP contra el backend"
+}
