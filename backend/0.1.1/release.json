@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.1",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.1-win-x64/acoremp-backend-0.1.1-win-x64.bin",
+  "asset": "acoremp-backend-0.1.1-win-x64.bin",
+  "size_bytes": 49933184,
+  "sha256_encrypted": "efdabbaf14dfb6e9c1d3d9c55bd5f97c55baaa31f6d165e555ff6b1299f8840a",
+  "sha256_plain": "c70f395fa4383876def2c175b8abdea7d2f247522dcc7690df97f00fcbd06de5",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "4c1e1c50dbe615e082d5dbe597bc6de04f675a1e",
+  "source_tag": "v0.1.1",
+  "published_at": "2026-09-23T12:39:46.8515353Z",
+  "notes": "- D52: instalador del backend (l├│gica del Setup.exe) y arreglo de unenroll.ps1 en PowerShell 5.1\n- D52 fase 2: AcorempUpdater, configuraci├│n local (Q17) y bot├│n Salir visible\n- D52: versionado del backend (semver 0.1.0, /health y reporte en el latido)\n- A├▒ade ESTADO.md con el estado del backend\n- Separa el backend en su propio repositorio\n- Selector de planta redise├▒ado, ajustes en men├║/pie y D51: preferencias de usuario + login de proveedor en ACOAPP\n- D50: casamiento por efecto en Salidas, Entradas varias y Devoluciones\n- Corrige lo detectado al revisar la documentaci├│n\n- Reorganiza la documentaci├│n en General, Backend, Cliente, Proveedor y AppLogistica\n- A├▒ade Swagger configurable en produccion, manual y capturas de app_proveedor\n- Corrige el latido para que limpie pases sin actividad reciente\n- Limpieza de estilo, apunta backend a la IP de LAN y excluye backend/publish\n- Paginacion perezosa de verdad en Devoluciones: sin precarga, buscador en servidor, sin seleccionar todos y stock bajo demanda\n- Corrige ORA-01745 en el casamiento de recepciones: DATE es palabra reservada de Oracle\n- Devoluciones detras del backend, casamiento de recepciones por efecto y acceso de provider_admin al panel (D46, D47, D48)\n- Catalogo de articulos de Entradas varias detras del backend (D47)\n- Salidas y Entradas varias detras del backend (D44/D45); acceso de provider_admin al panel del cliente (D46, 026)\n- Cambio de stock detras del backend (D43): lectura, escritura y verificacion por efecto\n- Recepciones detras del backend: el desplegable de impresoras (D42, fase 3)\n- Recepciones detras del backend: la escritura (D42, fase 2)\n- Recepciones detras del backend: toda la lectura (D42, fase 1)\n- Autorizaciones de X3: de la vista YVAUZ al menu de ACOAPP (D40, D41)\n- Cola local de auditoria y su drenado a Supabase (D38)\n- La sesion del backend lleva la identidad del operario (D38)\n- Primer endpoint de negocio contra X3: GET /facilities\n- Conexion a Sage X3 configurada desde Supabase (D36) y multimotor SQL Server/Oracle (D37)\n- Varias licencias vigentes por cliente (D35) y catalogo real del cliente\n- Panel del proveedor, panel del cliente y login de ACOAPP contra el backend\n- Endpoint de uso de licencia (/license/usage) y ajustes de docs\n- Commit inicial: esquema Supabase, backend .NET y documentacion"
+}
