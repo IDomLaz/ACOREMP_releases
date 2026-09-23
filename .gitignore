@@ -1,0 +1,7 @@
+# Solo van a git las fichas (release.json) y el índice. Los binarios, en
+# claro o cifrados, se suben como adjuntos de los GitHub Releases y la copia
+# local queda solo como archivo en este equipo (D52).
+*.bin
+*.zip
+*.apk
+*.exe
