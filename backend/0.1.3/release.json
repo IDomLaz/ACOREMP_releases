@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.3",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.3-win-x64/acoremp-backend-0.1.3-win-x64.bin",
+  "asset": "acoremp-backend-0.1.3-win-x64.bin",
+  "size_bytes": 50006413,
+  "sha256_encrypted": "7371ec509ff544fdca55ee975b082224a95d5a94ea3d73a8afd185fe6e004c93",
+  "sha256_plain": "d56eef9ebd8826790b5af09476ebac70a0a54f691847a9dce19b7af6f45986bc",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "bc3be52a1557b7134b39a40c310eed6077c559b4",
+  "source_tag": "v0.1.3",
+  "published_at": "2026-09-23T13:23:27.1440210Z",
+  "notes": "- D52: fechas del panel en espa├▒ol, con un formateador compartido\n- D52: QR sin recortar y fecha en espa├▒ol en la pesta├▒a App"
+}
