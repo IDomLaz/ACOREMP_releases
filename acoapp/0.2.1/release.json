@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.2.1",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.2.1/acoapp-0.2.1.bin",
+  "asset": "acoapp-0.2.1.bin",
+  "size_bytes": 72423956,
+  "sha256_encrypted": "b5f8b5ea29926a40709bbde39ea9e3697a59f975658c527d1de043c37ee6191b",
+  "sha256_plain": "31c7eeb9bbeddf82d80942e1727b9bd58d4ac77f827998aed6a5a3c79168f723",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "00a63ec04ef2bbf422edc20785eacf31ec195a8f",
+  "source_tag": "v0.2.1",
+  "published_at": "2026-09-23T17:08:32.9335423Z",
+  "notes": "Version 0.2.1"
+}

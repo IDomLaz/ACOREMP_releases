@@ -16,6 +16,7 @@ cada versión solo la tienen las instalaciones, a través de Supabase (D52).
 
 | Versión | Arquitectura | Canal | Publicada | SHA-256 del original |
 |---|---|---|---|---|
+| [0.2.1](acoapp/0.2.1/release.json) | any | piloto | 2026-09-23 | `31c7eeb9bbed…` |
 | [0.2.0](acoapp/0.2.0/release.json) | any | piloto | 2026-09-23 | `bf5aafe3136d…` |
 | [0.1.0](acoapp/0.1.0/release.json) | any | piloto | 2026-09-23 | `a3b03e1d95e3…` |
 
