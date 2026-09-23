@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.2.0",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.2.0/acoapp-0.2.0.bin",
+  "asset": "acoapp-0.2.0.bin",
+  "size_bytes": 72423956,
+  "sha256_encrypted": "3d3d6b859846b6463dc330c9d973d907074fb725854f2910a13f3b03a360c1b9",
+  "sha256_plain": "bf5aafe3136d48f233e517e8f27a0dbae8e949f0956b74e7ce9d5c17261de237",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "00b3086b143f450a6b9730f2845fd68e6d5f8088",
+  "source_tag": "v0.2.0",
+  "published_at": "2026-09-23T17:00:34.9147622Z",
+  "notes": "- D52 fase 3b: ACOAPP se actualiza sola desde el backend (426, descarga reanudable, sha256 e instalador)"
+}
