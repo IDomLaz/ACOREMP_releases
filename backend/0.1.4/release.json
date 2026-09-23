@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.4",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.4-win-x64/acoremp-backend-0.1.4-win-x64.bin",
+  "asset": "acoremp-backend-0.1.4-win-x64.bin",
+  "size_bytes": 50004221,
+  "sha256_encrypted": "093fd4cdac21b099f119d962f6e8962c67b0850dae7f0b78e96ff318dcf98529",
+  "sha256_plain": "4f86e77f7f4555a05c70d3ce0adff51719aa5c89f4e2ac86cbed4df26407a475",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "3cc90f0b45cfa70a532cb6af2adcc5dbfccfba74",
+  "source_tag": "v0.1.4",
+  "published_at": "2026-09-23T16:58:15.1337886Z",
+  "notes": "- D52 fase 3b: versi├│n m├¡nima de ACOAPP y 426 app_update_required en el login"
+}
