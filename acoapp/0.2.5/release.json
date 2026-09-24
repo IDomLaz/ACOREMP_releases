@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.2.5",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.2.5/acoapp-0.2.5.bin",
+  "asset": "acoapp-0.2.5.bin",
+  "size_bytes": 72624412,
+  "sha256_encrypted": "e66ecf45c21a425a9c80f58fe782136cb130c7f4cb983f2226d10476f006318e",
+  "sha256_plain": "9e34a7b033279ea21bbf8d0ed7593ea94d31949a083bb531feba1a8d8fb2f9c2",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "6ea460c0fc54aeaa4210be90ec89318c3e4e0f0c",
+  "source_tag": "v0.2.5",
+  "published_at": "2026-09-24T09:59:44.9319572Z",
+  "notes": "- Nombre de dispositivo solo en ASCII (Kestrel rechaza cabeceras no ASCII) y un 400 vac├¡o ya no es error de red"
+}
