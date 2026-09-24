@@ -8,6 +8,7 @@ El canal es el del momento de publicar; el vigente está en Supabase.
 
 | Versión | Arquitectura | Canal | Publicada | SHA-256 del original |
 |---|---|---|---|---|
+| [0.1.8](backend/0.1.8/release.json) | win-x64 | piloto | 2026-09-24 | `6e70254cebc4…` |
 | [0.1.7](backend/0.1.7/release.json) | win-x64 | piloto | 2026-09-24 | `f93e3654329f…` |
 | [0.1.6](backend/0.1.6/release.json) | win-x64 | piloto | 2026-09-24 | `26aca1967b87…` |
 | [0.1.5](backend/0.1.5/release.json) | win-x64 | piloto | 2026-09-24 | `827627ea2892…` |
@@ -20,6 +21,7 @@ El canal es el del momento de publicar; el vigente está en Supabase.
 
 | Versión | Arquitectura | Canal | Publicada | SHA-256 del original |
 |---|---|---|---|---|
+| [0.1.8](updater/0.1.8/release.json) | win-x64 | piloto | 2026-09-24 | `dee7d806c26c…` |
 | [0.1.7](updater/0.1.7/release.json) | win-x64 | piloto | 2026-09-24 | `e9e36869ddd9…` |
 | [0.1.6](updater/0.1.6/release.json) | win-x64 | piloto | 2026-09-24 | `7eb3b9c37a96…` |
 | [0.1.5](updater/0.1.5/release.json) | win-x64 | piloto | 2026-09-24 | `15487b31949c…` |

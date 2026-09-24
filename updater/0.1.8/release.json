@@ -1,0 +1,21 @@
+{
+  "component": "updater",
+  "version": "0.1.8",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/updater-v0.1.8-win-x64/acoremp-updater-0.1.8-win-x64.bin",
+  "asset": "acoremp-updater-0.1.8-win-x64.bin",
+  "size_bytes": 31346047,
+  "sha256_encrypted": "035656cf7c3708f17d387eae6b3436badd69b90178e6a6b6cf8ae51802e2af3c",
+  "sha256_plain": "dee7d806c26c5370190ccb4362b269d8b84b06e9948f17b364279f6a035811b2",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "4c0c3699137d358f65555609ef5ee313a3a900d2",
+  "source_tag": "v0.1.8",
+  "published_at": "2026-09-24T10:10:19.5265463Z",
+  "notes": "- D52: el updater prepara todas las ├│rdenes abiertas y una que espera no bloquea a las dem├ís"
+}

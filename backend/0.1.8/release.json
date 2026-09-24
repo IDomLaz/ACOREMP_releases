@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.8",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.8-win-x64/acoremp-backend-0.1.8-win-x64.bin",
+  "asset": "acoremp-backend-0.1.8-win-x64.bin",
+  "size_bytes": 49998649,
+  "sha256_encrypted": "1eafa156c2a3435d3c6ea0b3489a287bdb9c858480081fd97e4e9d9ad717cbc3",
+  "sha256_plain": "6e70254cebc4dc2fed9525b06d7694b0a12d76a82a21a9e90c22df4b9fcbd5af",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": 38,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "4c0c3699137d358f65555609ef5ee313a3a900d2",
+  "source_tag": "v0.1.8",
+  "published_at": "2026-09-24T10:09:39.7057720Z",
+  "notes": "- D52: el updater prepara todas las ├│rdenes abiertas y una que espera no bloquea a las dem├ís"
+}
