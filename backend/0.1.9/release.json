@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.9",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.9-win-x64/acoremp-backend-0.1.9-win-x64.bin",
+  "asset": "acoremp-backend-0.1.9-win-x64.bin",
+  "size_bytes": 49998646,
+  "sha256_encrypted": "61fe3eeb4c035c57b8bfdfabae218128a0b43d970857fa543f950216f8c47b6a",
+  "sha256_plain": "a1aaa6899e6f502e62a6bf1667de6596f10e7798c5694bc5d4f0b551820d6cdb",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": 38,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "d16017fce2d94924ad7254e2c2775d44b6eabf30",
+  "source_tag": "v0.1.9",
+  "published_at": "2026-09-24T10:23:15.4206465Z",
+  "notes": "Version 0.1.9"
+}
