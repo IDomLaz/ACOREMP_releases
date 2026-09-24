@@ -26,6 +26,7 @@ El canal es el del momento de publicar; el vigente está en Supabase.
 
 | Versión | Arquitectura | Canal | Publicada | SHA-256 del original |
 |---|---|---|---|---|
+| [0.2.3](acoapp/0.2.3/release.json) | any | piloto | 2026-09-24 | `9b91c0816358…` |
 | [0.2.2](acoapp/0.2.2/release.json) | any | piloto | 2026-09-24 | `8dc03ac825f1…` |
 | [0.2.1](acoapp/0.2.1/release.json) | any | piloto | 2026-09-23 | `31c7eeb9bbed…` |
 | [0.2.0](acoapp/0.2.0/release.json) | any | piloto | 2026-09-23 | `bf5aafe3136d…` |
