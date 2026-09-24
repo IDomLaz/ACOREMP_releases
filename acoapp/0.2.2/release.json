@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.2.2",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.2.2/acoapp-0.2.2.bin",
+  "asset": "acoapp-0.2.2.bin",
+  "size_bytes": 72440340,
+  "sha256_encrypted": "35ac792d2b296f79f1ba652d52a6cc5d398cddd76281f41c01146be740104026",
+  "sha256_plain": "8dc03ac825f127df847d883b0fa006f104e94956aa5639d9850ab0256b1fdd36",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "ba3615326a2b4fa7f2dd97cf5c7ef1bc4a231ace",
+  "source_tag": "v0.2.2",
+  "published_at": "2026-09-24T06:45:50.4791212Z",
+  "notes": "- D52: configurar el servidor escaneando el QR de la pesta├▒a App\n- Fija eol=lf en los registrant generados de linux/windows"
+}
