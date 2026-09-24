@@ -1,0 +1,21 @@
+{
+  "component": "updater",
+  "version": "0.1.6",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/updater-v0.1.6-win-x64/acoremp-updater-0.1.6-win-x64.bin",
+  "asset": "acoremp-updater-0.1.6-win-x64.bin",
+  "size_bytes": 31347018,
+  "sha256_encrypted": "81f2a0e3bf6bec483291dd98d62977c4b8992b655cb5962c5970b2b213709450",
+  "sha256_plain": "7eb3b9c37a962a624c9a2563ef1d3d18e6fd4ea5387d523a73a7cc890563c89a",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "66621c01ee97f3f18c789bbe78732b13807b8a04",
+  "source_tag": "v0.1.6",
+  "published_at": "2026-09-24T06:44:53.4558633Z",
+  "notes": "Version 0.1.6"
+}

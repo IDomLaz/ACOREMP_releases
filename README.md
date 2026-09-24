@@ -8,6 +8,7 @@ El canal es el del momento de publicar; el vigente está en Supabase.
 
 | Versión | Arquitectura | Canal | Publicada | SHA-256 del original |
 |---|---|---|---|---|
+| [0.1.6](backend/0.1.6/release.json) | win-x64 | piloto | 2026-09-24 | `26aca1967b87…` |
 | [0.1.5](backend/0.1.5/release.json) | win-x64 | piloto | 2026-09-24 | `827627ea2892…` |
 | [0.1.4](backend/0.1.4/release.json) | win-x64 | piloto | 2026-09-23 | `4f86e77f7f45…` |
 | [0.1.3](backend/0.1.3/release.json) | win-x64 | piloto | 2026-09-23 | `d56eef9ebd88…` |
@@ -18,6 +19,7 @@ El canal es el del momento de publicar; el vigente está en Supabase.
 
 | Versión | Arquitectura | Canal | Publicada | SHA-256 del original |
 |---|---|---|---|---|
+| [0.1.6](updater/0.1.6/release.json) | win-x64 | piloto | 2026-09-24 | `7eb3b9c37a96…` |
 | [0.1.5](updater/0.1.5/release.json) | win-x64 | piloto | 2026-09-24 | `15487b31949c…` |
 
 ## acoapp
