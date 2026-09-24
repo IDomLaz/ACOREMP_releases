@@ -1,0 +1,21 @@
+{
+  "component": "updater",
+  "version": "0.1.5",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/updater-v0.1.5-win-x64/acoremp-updater-0.1.5-win-x64.bin",
+  "asset": "acoremp-updater-0.1.5-win-x64.bin",
+  "size_bytes": 31347018,
+  "sha256_encrypted": "cf331a9862fbd6bbefefa1687274449591d94c3a59ed8dd4d6949ee2306d8ec5",
+  "sha256_plain": "15487b31949c4aed9a05e82d0898ccf1982dfffbdd9135881cd17e4636b2c301",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "9302dc7260ea91dfffd0c5b6ca1c5090158aeef7",
+  "source_tag": "v0.1.5",
+  "published_at": "2026-09-24T06:37:01.2155147Z",
+  "notes": "- D52: AcorempUpdater se actualiza a s├¡ mismo (ayudante, alive-file y vuelta atr├ís)"
+}

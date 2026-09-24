@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.5",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.5-win-x64/acoremp-backend-0.1.5-win-x64.bin",
+  "asset": "acoremp-backend-0.1.5-win-x64.bin",
+  "size_bytes": 50004378,
+  "sha256_encrypted": "151e11802f4caa34e66f43fdccb7ca5907011d933db52194db2387bcabb6ef95",
+  "sha256_plain": "827627ea2892a2b23b2526db5a7e78d97a8c3c33198a912d68877edb8fcce3d7",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "9302dc7260ea91dfffd0c5b6ca1c5090158aeef7",
+  "source_tag": "v0.1.5",
+  "published_at": "2026-09-24T06:36:29.4770865Z",
+  "notes": "- D52: AcorempUpdater se actualiza a s├¡ mismo (ayudante, alive-file y vuelta atr├ís)"
+}
