@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.2.4",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.2.4/acoapp-0.2.4.bin",
+  "asset": "acoapp-0.2.4.bin",
+  "size_bytes": 72624412,
+  "sha256_encrypted": "5c4bf0f2c5a2f1a46185f8ee6d2867382b57268de8fc129d8ef850180d029e55",
+  "sha256_plain": "e9dac95528bdc5c2360a439c85f4dfd14402e54f064a96ee3ea336f6036eb383",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "a27f9792eef838adcc94c2fd05014bbcc0a12514",
+  "source_tag": "v0.2.4",
+  "published_at": "2026-09-24T09:27:51.7301938Z",
+  "notes": "- Sesiones: preguntar antes de echar a otro dispositivo, recordar la sesi├│n y avisar al perderla"
+}

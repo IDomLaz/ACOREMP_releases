@@ -1,0 +1,21 @@
+{
+  "component": "updater",
+  "version": "0.1.7",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/updater-v0.1.7-win-x64/acoremp-updater-0.1.7-win-x64.bin",
+  "asset": "acoremp-updater-0.1.7-win-x64.bin",
+  "size_bytes": 31347022,
+  "sha256_encrypted": "dbb049a71decd2484b5c2f02b8da17aa4bee85671a836ff58190ec19e12c2cbf",
+  "sha256_plain": "e9e36869ddd953e3341f82e642ca8ac3738b5973369fa62a74231eab2423357c",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "17c38d9e6ef3e6be836972d86fc3c23ceee2db85",
+  "source_tag": "v0.1.7",
+  "published_at": "2026-09-24T09:27:51.3361204Z",
+  "notes": "- Sesiones de ACOAPP: preguntar antes de echar a otro dispositivo, /session/current y motivo de sesi├│n perdida"
+}
