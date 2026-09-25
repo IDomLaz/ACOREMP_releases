@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.10",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.10-win-x64/acoremp-backend-0.1.10-win-x64.bin",
+  "asset": "acoremp-backend-0.1.10-win-x64.bin",
+  "size_bytes": 49999480,
+  "sha256_encrypted": "f3ca0dd6b30bcfb844890b2d95af31d0531740609c3a2ec3f5204cf4354dcfdb",
+  "sha256_plain": "ea9d09d0af3ad3f9c89679940553fe1ceaf7d5d7f696b5582f951cf75af47156",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": 38,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "f40d433cef6f71dc1d21494ed91a2fd1f9fc9adf",
+  "source_tag": "v0.1.10",
+  "published_at": "2026-09-25T08:35:15.9252873Z",
+  "notes": "D55: el backend sigue latiendo 1,5 ventanas tras quedarse sin sesiones, para que no queden pases colgados en el Monitor."
+}
