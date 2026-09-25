@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.3.1",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.3.1/acoapp-0.3.1.bin",
+  "asset": "acoapp-0.3.1.bin",
+  "size_bytes": 74885404,
+  "sha256_encrypted": "3e43a190fa4be2036e2a00649a4f301873af5584a9f95ee84c4a33dccf18714c",
+  "sha256_plain": "bf28e6736c3ded80fe1abdac2d1ca4bbabf4c7561aced1bad811b51e7367e5c4",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "fd0af998d27839a07cde806c503124048ef93086",
+  "source_tag": "v0.3.1",
+  "published_at": "2026-09-25T08:14:02.4872438Z",
+  "notes": "La actualización obligatoria se avisa en el login y bloquea la entrada. Título LOGÍSTICA y botón Entrar."
+}
