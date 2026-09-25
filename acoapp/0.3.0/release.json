@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.3.0",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.3.0/acoapp-0.3.0.bin",
+  "asset": "acoapp-0.3.0.bin",
+  "size_bytes": 74885404,
+  "sha256_encrypted": "2b2b4bb370a997fdf6950c7659e33bfd167c8dd247f75587f84aac8cba85fd7b",
+  "sha256_plain": "ad176a1207560e520ae5a36272a7804b1ed7c2c8dd2e75ca63138a1fd941f675",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "0879a3f74a3b9b9996eda3e651172487892af685",
+  "source_tag": "v0.3.0",
+  "published_at": "2026-09-25T07:43:03.7596316Z",
+  "notes": "D54: multiidioma (español e inglés)."
+}
