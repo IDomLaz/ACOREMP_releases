@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.11",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.11-win-x64/acoremp-backend-0.1.11-win-x64.bin",
+  "asset": "acoremp-backend-0.1.11-win-x64.bin",
+  "size_bytes": 49999493,
+  "sha256_encrypted": "2eb4ec6bb205466d1fde5bba9a586ef69b6bbe0045661bc51e3c39b345d8ff45",
+  "sha256_plain": "e692e7676eb4403dae3d064825d44115298079184a12e36183c50e3bfaccdcec",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "dbdb212e067e8a617a87b980e3d544100cde359d",
+  "source_tag": "v0.1.11",
+  "published_at": "2026-10-14T08:22:55.9615771Z",
+  "notes": "- CORS: el servidor de pruebas 192.168.2.17 se admite de serie durante la alfa"
+}
