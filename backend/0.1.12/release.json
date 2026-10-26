@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.12",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.12-win-x64/acoremp-backend-0.1.12-win-x64.bin",
+  "asset": "acoremp-backend-0.1.12-win-x64.bin",
+  "size_bytes": 50027758,
+  "sha256_encrypted": "0d4f09078a1452bcf38065bd682b28f8ddc5fe98fd70ce58b7a96160c06e8e7b",
+  "sha256_plain": "11bb19d3b5b4cc396f0852b8a825495620ee4619b60c5ddd5212f03ec2b0c065",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "cc2d1c05a53b168ef18f09f58d61c177beef6754",
+  "source_tag": "v0.1.12",
+  "published_at": "2026-10-26T07:15:45.6935159Z",
+  "notes": "Pruebas de recepciones: D58 (pedidos con el criterio de X3), D59 (entregas intersociedad) y Q24 (POST /receipts con tres orígenes)"
+}
