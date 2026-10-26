@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.14",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.14-win-x64/acoremp-backend-0.1.14-win-x64.bin",
+  "asset": "acoremp-backend-0.1.14-win-x64.bin",
+  "size_bytes": 50030122,
+  "sha256_encrypted": "6e3c2afe663d1e1f5d0e77edbfb382651bff3caf8ba2649df97a5722e4cbf4b7",
+  "sha256_plain": "051749b80ae81bb93296474aa4d2fc95050db781c76f594dc63d223ec031cb86",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "940bfe5ef3c779b704a704aa36d89ac5fffd07e6",
+  "source_tag": "v0.1.14",
+  "published_at": "2026-10-26T12:16:34.8068581Z",
+  "notes": "D60: la respuesta de X3 se clasifica por tipo de mensaje; los avisos ya no impiden crear el documento, y las escrituras devuelven warnings y errors"
+}
