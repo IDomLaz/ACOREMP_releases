@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.13",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.13-win-x64/acoremp-backend-0.1.13-win-x64.bin",
+  "asset": "acoremp-backend-0.1.13-win-x64.bin",
+  "size_bytes": 50028377,
+  "sha256_encrypted": "3a86bf7f9babc6a320725c4e05e93c58a0b7350face6a9aff35a167341029c34",
+  "sha256_plain": "5a527944b760a5d543f34e1127861d91814f9a50c4ff80df80ea1a9ac3812f6a",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "feebb5d8623f7eb06cc8ee02a9119f7bf15aca38",
+  "source_tag": "v0.1.13",
+  "published_at": "2026-10-26T07:48:21.4363548Z",
+  "notes": "Entregas intersociedad: referencia del cliente (customerRef), moneda (currency) y precio bruto de línea (grossPrice); vista YVPTHSDH"
+}
