@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.16",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.16-win-x64/acoremp-backend-0.1.16-win-x64.bin",
+  "asset": "acoremp-backend-0.1.16-win-x64.bin",
+  "size_bytes": 50034503,
+  "sha256_encrypted": "e8ab503034bd5cd0bb8f09a4ee5fb70e98bbecd9a9381805f7272a7321d61101",
+  "sha256_plain": "db498fccb1c8be9336826d193eb6d4e1b960c3c08f24b0b0da41724943c450a6",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "885c05a83b902604620253aa959e4465410142d9",
+  "source_tag": "v0.1.16",
+  "published_at": "2026-10-27T12:26:41.6591825Z",
+  "notes": "D62: lista de proveedores (GET /suppliers), paginación Oracle con ordenación binaria y hasMore de /stock arreglado. D63: las recepciones intersociedad que X3 crea sin confirmar ya no salen como 422."
+}
