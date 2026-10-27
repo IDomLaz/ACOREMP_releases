@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.15",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.15-win-x64/acoremp-backend-0.1.15-win-x64.bin",
+  "asset": "acoremp-backend-0.1.15-win-x64.bin",
+  "size_bytes": 50030292,
+  "sha256_encrypted": "28a0e360230431cd703e7f132b6bf355d5a53a25e0bdf63d1f424d6d6604a9d3",
+  "sha256_plain": "80df569ed1ed8a3ed48b9aadd9945ac0f7df1cc5d9a18409a0350080286b1c8b",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "7d46922b6c7ccfa5394cdce0a84062b3a0714aab",
+  "source_tag": "v0.1.15",
+  "published_at": "2026-10-27T10:28:02.1843744Z",
+  "notes": "D61: pedidos y entregas ordenados de la fecha más reciente a la más antigua; cursor compuesto yyyy-MM-dd|número (el de solo número se sigue aceptando)"
+}
