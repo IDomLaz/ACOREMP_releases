@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.17",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.17-win-x64/acoremp-backend-0.1.17-win-x64.bin",
+  "asset": "acoremp-backend-0.1.17-win-x64.bin",
+  "size_bytes": 50029497,
+  "sha256_encrypted": "dad133964a03b55ec91de14ff0ed82b79cc8d4908601adca0dd8c46ea32a0adf",
+  "sha256_plain": "af02433e716ac9a67fef006137978de2e1569bb2bd96bf7b7cc13652f7e24b0e",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "6c12ae4809df9f073749d5d4a60a8fd47fb395e6",
+  "source_tag": "v0.1.17",
+  "published_at": "2026-10-28T13:26:23.0395366Z",
+  "notes": "D64: devoluciones a proveedor al criterio de X3 (vista YVPNHPTH), lista ordenada por fecha con cursor fecha|num|línea y filtros from/to, GET /stock con permiso de devoluciones, plantilla YPNHAPP con unidad obligatoria por línea y casamiento por usuario creador y unidad. Requiere ACOAPP que mande unit en POST /returns."
+}
