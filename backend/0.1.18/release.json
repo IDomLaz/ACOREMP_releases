@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.18",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.18-win-x64/acoremp-backend-0.1.18-win-x64.bin",
+  "asset": "acoremp-backend-0.1.18-win-x64.bin",
+  "size_bytes": 50062059,
+  "sha256_encrypted": "1c7a73436424223a1edc59554ccd277a798b0009f7df59c9f6c8ed1e8f2ab300",
+  "sha256_plain": "d642a2158ae0a827e714819a7739b02d5c95cedfe13e6275c6226898bed11e80",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "ef811639a4ffdd3dde4e6f13afb88f0968ec433b",
+  "source_tag": "v0.1.18",
+  "published_at": "2026-10-30T10:03:29.4728001Z",
+  "notes": "D66: log de depuración a fichero en %ProgramData%\\ACOREMP\\Backend\\logs (peticiones de la app, llamadas a Supabase y X3, consultas a la BD de X3 y pasos de los escritores con el casamiento). Un fichero por día, 30 días. Sin cambios de contrato con ACOAPP."
+}
