@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.19",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.19-win-x64/acoremp-backend-0.1.19-win-x64.bin",
+  "asset": "acoremp-backend-0.1.19-win-x64.bin",
+  "size_bytes": 50069449,
+  "sha256_encrypted": "0c7ad0a54689a690b4f7b70a7f78e0245dd7ac70c0875e32a442d9bb89f9b18d",
+  "sha256_plain": "d2b38e1ed4c49f12229b97e96c233336ef5276348e75285d6417f0e165f0c040",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "b8cdc5e35e415ec684eb5623ea55fae9c548366a",
+  "source_tag": "v0.1.19",
+  "published_at": "2026-10-30T11:31:12.2888216Z",
+  "notes": "D67: la respuesta de X3 se clasifica por el documento creado. Casamiento siempre que no haya número (también con errores o fallo de transporte). Resultados: creada, creada sin validar, creada pero no coincide, rechazada, sin confirmar. El 422 x3_rejected añade document y notValidated. Requiere la vista YVPNH con VALIDATED_0."
+}
