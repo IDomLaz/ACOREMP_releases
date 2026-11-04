@@ -8,6 +8,7 @@ El canal es el del momento de publicar; el vigente está en Supabase.
 
 | Versión | Arquitectura | Canal | Publicada | SHA-256 del original |
 |---|---|---|---|---|
+| [0.1.21](backend/0.1.21/release.json) | win-x64 | piloto | 2026-11-04 | `d19795327a7a…` |
 | [0.1.20](backend/0.1.20/release.json) | win-x64 | piloto | 2026-11-04 | `93e4cd0c819f…` |
 | [0.1.19](backend/0.1.19/release.json) | win-x64 | piloto | 2026-10-30 | `d2b38e1ed4c4…` |
 | [0.1.18](backend/0.1.18/release.json) | win-x64 | piloto | 2026-10-30 | `d642a2158ae0…` |

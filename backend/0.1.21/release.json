@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.21",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.21-win-x64/acoremp-backend-0.1.21-win-x64.bin",
+  "asset": "acoremp-backend-0.1.21-win-x64.bin",
+  "size_bytes": 50088297,
+  "sha256_encrypted": "25c4cd3f55bfd477b8b440658183c324b6b843033bfe5e8b56a8187e97ac5f60",
+  "sha256_plain": "d19795327a7a40cc2abd7dd5d0723f8c6e20df694844b88d0b3fa428f9459989",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "68e1c82445f6c09ed438570b7960e43d4102f73c",
+  "source_tag": "v0.1.21",
+  "published_at": "2026-11-04T10:44:19.5890687Z",
+  "notes": "D69: GET /misc-tables/{table}, tablas diversas de X3 (vista YVTABDIV) con respaldo de idioma a SPA. Requiere la vista YVTABDIV en el dossier."
+}
