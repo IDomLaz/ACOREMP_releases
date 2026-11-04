@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.20",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.20-win-x64/acoremp-backend-0.1.20-win-x64.bin",
+  "asset": "acoremp-backend-0.1.20-win-x64.bin",
+  "size_bytes": 50084217,
+  "sha256_encrypted": "c8e7ac6c9e7185f50939ccc0a6d359810618d3ace5b9f480093fbea0a1766480",
+  "sha256_plain": "93e4cd0c819f09012b49381ec6e58dc4c66b5deb1dad8f706ec6121211487545",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "b77f9b37bf34526cc236c450c55a50050fc1962d",
+  "source_tag": "v0.1.20",
+  "published_at": "2026-11-04T07:13:46.0476075Z",
+  "notes": "D68: GET /returns/customer/lines (log.customer_return), entregas devolvibles para devoluciones de cliente. Requiere la vista YVSRHSDH en el dossier y mapear log.customer_return a GESSRH en el Catálogo."
+}
