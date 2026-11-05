@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.25",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.25-win-x64/acoremp-backend-0.1.25-win-x64.bin",
+  "asset": "acoremp-backend-0.1.25-win-x64.bin",
+  "size_bytes": 50136204,
+  "sha256_encrypted": "381dd682970b9a3117de07cb2769d8db21b03dfaf776d729ea24fc9582b9b7d3",
+  "sha256_plain": "bcbdb57b13002be975371b2ea6701db17ced5aaf499829534c3e71826c50a330",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": 38,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "dc2fae30dbf065c48c9608528c727ec6de523002",
+  "source_tag": "v0.1.25",
+  "published_at": "2026-11-05T13:15:25.9002777Z",
+  "notes": "Log sin iconos; la devolución de cliente ya no compara el cliente facturado en el casamiento"
+}
