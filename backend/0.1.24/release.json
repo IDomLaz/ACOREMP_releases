@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.24",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.24-win-x64/acoremp-backend-0.1.24-win-x64.bin",
+  "asset": "acoremp-backend-0.1.24-win-x64.bin",
+  "size_bytes": 50136240,
+  "sha256_encrypted": "7f674ef123e2340dd598b974b51ed51d9995830883bd1ff68505a825265110ea",
+  "sha256_plain": "7c62b5b9b994441948d78a960dc85e614a3122ce2f1ee0dfb9d7ed5f1449b5ba",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": 38,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "b2e1e3214a71a936b2b004a01e8bb1ef7e95cd06",
+  "source_tag": "v0.1.24",
+  "published_at": "2026-11-05T12:51:27.3736906Z",
+  "notes": "D72: versiones de artículo y caducidad al recibir; serie, versión y caducidad en stock; corrección de lote/serie del maestro y del lote de proveedor/caducidad en el detalle de recepción"
+}
