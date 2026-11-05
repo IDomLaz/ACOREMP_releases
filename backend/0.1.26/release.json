@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.26",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.26-win-x64/acoremp-backend-0.1.26-win-x64.bin",
+  "asset": "acoremp-backend-0.1.26-win-x64.bin",
+  "size_bytes": 50137119,
+  "sha256_encrypted": "747e65397bf09e33a927fea939c0d768a0e03b67ab710a303b59854a1d95cc5d",
+  "sha256_plain": "d0cf2b2fa324898e71f4c923921c73e346f8be51e08b8ae74538ac8690eca0f5",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "296820cd3aa5efec2df093f78a1e47afcab58d29",
+  "source_tag": "v0.1.26",
+  "published_at": "2026-11-05T16:23:04.3253868Z",
+  "notes": "- GET /stock: sublote en la respuesta y filtros por sublote, versi├│n y serie"
+}
