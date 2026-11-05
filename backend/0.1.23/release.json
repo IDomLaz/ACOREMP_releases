@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.23",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.23-win-x64/acoremp-backend-0.1.23-win-x64.bin",
+  "asset": "acoremp-backend-0.1.23-win-x64.bin",
+  "size_bytes": 50118317,
+  "sha256_encrypted": "cae6425e21e451597c4c74e1650c02a57044a16f3feb528eb3597a74f80778a2",
+  "sha256_plain": "5aa814826b3f9790a94321ca1fa93db980c542f76769ff1c1abd40aa4285130b",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "4a6ba9a76cd43e6363abe9c878cac71f05bdc937",
+  "source_tag": "v0.1.23",
+  "published_at": "2026-11-05T08:33:21.2165007Z",
+  "notes": "D71: POST /returns/customer sin número de serie (serial ya no forma parte del contrato; si llega, se ignora)."
+}
