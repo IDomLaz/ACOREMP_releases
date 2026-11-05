@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.22",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.22-win-x64/acoremp-backend-0.1.22-win-x64.bin",
+  "asset": "acoremp-backend-0.1.22-win-x64.bin",
+  "size_bytes": 50120898,
+  "sha256_encrypted": "dffecd5ff348ba83c8622d74fb87ed13f87cc2674d2464afc0edd0e4c45278ac",
+  "sha256_plain": "b08405b2c4cbf090ef8215580983b30889ece15713d06742ce2d531757a00d35",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "4392119e13ee7aba6fc71f04994d0d3b87f83627",
+  "source_tag": "v0.1.22",
+  "published_at": "2026-11-05T07:05:52.0981245Z",
+  "notes": "D70: casamiento por documento completo en todas las escrituras (ventana de creación, usuario SOAP, comparación entera; el 200 de POST /stock-changes lleva document; GET /status con bloque clock). D71: POST /returns/customer (plantilla YSRHAPP). Requiere en el dossier las vistas YVSRH, y YVPTH, YVPNH, YVSTJ e YVSRHSDH con sus columnas nuevas."
+}
