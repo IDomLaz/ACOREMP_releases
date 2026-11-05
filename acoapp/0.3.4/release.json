@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.3.4",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.3.4/acoapp-0.3.4.bin",
+  "asset": "acoapp-0.3.4.bin",
+  "size_bytes": 77355481,
+  "sha256_encrypted": "d72c0b227f6d2c0a929bf6d65479c75d5f83d7a4c7f474ae2b894205308f3ba4",
+  "sha256_plain": "511dfc14921421887a977d07306a0c5e999474622e8ea7e3466f254f59a51297",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": "0.1.26",
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "e0581e4ef87287c989fbe12f0b956cc7ee793d70",
+  "source_tag": "v0.3.4",
+  "published_at": "2026-11-05T17:11:58.2588596Z",
+  "notes": "- Docs: sincroniza D73 con ACOREMP_APP f4cfc5b (validaci├│n de la PR #5, D71 y D72)\n- Quita la foto del albar├ín del manual y el archivado del comentario de confirmar devoluci├│n\n- Corrige el manual y el flujo de Devoluci├│n cliente tras la revisi├│n\n- Revisi├│n de la rama: documentaci├│n de Devoluci├│n cliente, pendientes y menores\n- Corrige el merge de Test: versi├│n mayor/menor en stock, tests de tarjetas y chips, mounted en devoluciones\n- Update stock_descripcion_test.dart\n- pantalla devoluciones cliente terminadas en funcionalidad, falta la parte visual (Falta de validacion)\n- Docs: D72, versiones de art├¡culo y caducidad al recibir\n- Mejoras varias visuales\n- Arreglos en el test que fallaba\n- Correccion de fallos del merge v4\n- arreglos en fallos tras merge v1\n- Implementaci├│n de las devoluciones cliente\n- correcciones para merge\n- merge cambios de estructura enoc\n- Docs: D71 sin n├║mero de serie\n- Docs: D70 (casamiento) y D71 (devoluci├│n de cliente)\n- Arreglo buscador cambio de stock y salida varia\n- Mejoras de recepciones Tarea 173\n- homogeneizar los detalles de los articulos\n- generalizar textos\n- arreglos merge\n- cambios: Desplegable motivo de devolucion, cabeceras homogeneas, quitar stock actual\n- Docs: sincroniza D69 con ACOREMP_APP 315624d (tablas diversas e idioma)\n- Docs: sincroniza D67 y D68 con ACOREMP_APP 19a9719 (devoluciones de cliente, casamiento)\n- Delete lib.zip\n- arreglar flecha desplegable y color de las lineas de los pedidos\n- eliminar archivos sobrantes\n- cambiar calendario americano\n- Desplegables en articulo y ubicaciones\n- bloquear calendario para solo poder seleccionar fechas hacia atras y cambiar fecha pedido por fecha\n- correccion tests\n- Arreglos varios\n- actualizacion de documentacion\n- correccion bug de pendientes/tratados\n- poner el footer en la pantalla de inicio y quitar el refrescar deslizando\n- correccion de textos no traducidos\n- footer con la planta e impresora\n- quitar cantidad del articulo_card, de recepciones\n- Solucion bug (se seleccionaban todos los articulos con el mismo id automaticamente)"
+}
