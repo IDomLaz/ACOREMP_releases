@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.27",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.27-win-x64/acoremp-backend-0.1.27-win-x64.bin",
+  "asset": "acoremp-backend-0.1.27-win-x64.bin",
+  "size_bytes": 50137103,
+  "sha256_encrypted": "cf8de5e2c1f028a4891e730ee199975d599909fe42e0ba6f999752e9a15402ff",
+  "sha256_plain": "39d49f0a1e67a69c900f8459cb7bd4ab5d8136827a8097e81edfdcc66f9b54ed",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "bb1d82ce44eb1306e1638c0bad3d9df783300173",
+  "source_tag": "v0.1.27",
+  "published_at": "2026-11-06T08:52:38.6574177Z",
+  "notes": "- Casamiento de recepciones contra UOM/QTYUOM (ENTRYUNIT_0/ENTRYQTY_0 de YVPTD)"
+}
