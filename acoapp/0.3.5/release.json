@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.3.5",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.3.5/acoapp-0.3.5.bin",
+  "asset": "acoapp-0.3.5.bin",
+  "size_bytes": 77584849,
+  "sha256_encrypted": "4908512fb245c2a89c0a25fe74e8ada9afd1a432ad15eae0561194e37f4c43d0",
+  "sha256_plain": "e4a184fb767786d675c97daffd9e2190f36534ee428796ebbf1287fa4f320d1d",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "e548c99a520ca8dc280fde0bb752ed3aa0824785",
+  "source_tag": "v0.3.5",
+  "published_at": "2026-11-12T12:13:37.3883998Z",
+  "notes": "- Create backend.md\n- Reapply \"Test\"\n- arreglos en tests y listo para PR\n- Detalle articulo en cambios de stock modular y actualizacion de documentacion\n- boton de recargar igual en todos\n- Doc actualizada\n- desplegables que lleguen hasta arriba\n- Sublote integrado en el detalle del articulo\n- Docs D75: lote y sublote (backend 0.1.29); sincroniza con ACOREMP_APP ea8295b\n- test botones del detalle\n- configurar la pantalla de numeros de serie\n- modificaciones reunion 11/11/2026\n- Boton de unidades fuera de bounds\n- arreglo en el boton de recarga\n- Revert \"Test\"\n- quitar pantalla de confirmar cambio de stock y arreglos en los tests\n- correccion merge\n- cambio para mege\n- eliminar zip\n- cambioo en las pantallas de exito para q sean mas simples\n- Cambios antes de PR\n- test arreglados\n- caducidad y serie\n- Update direct_item_sheet.dart\n- Detalle devoluciones modular\n- numeros de serie por unidad recepcionada\n- Cambios previos a PR\n- cambios para q sean mas parecidas las nuevas pantallas\n- correccion para merge\n- documentacion actualizada\n- mejora de texto de las card, y texto moviminetos de stock\n- homogeneizar cards\n- documentacion actualizada\n- actualizar recepciones sin codigo muerto\n- cambio de tama├▒o para q quepan los titulos\n- cambio de stock con nueva vista\n- zip\n- Update direct_item_sheet.dart\n- Devoluciones con la nueva arquitectura visual de desplegables\n- Cambio pantalla recepicones entregas\n- migracion de la pantalla recepciones a la nueva estructura\n- documentaci├│n\n- arreglos en los test tras el merge\n- arreglo en el test de card order\n- centrar el bloqueo de proveedor, y corregir tests\n- arreglos test\n- correcciones de la pantalla de recepciones pedido\n- boton atras android arreglado\n- Docs: sincroniza con ACOREMP_APP 6020163 (D74: total opcional en los listados, backend 0.1.28)\n- Docs D74: coste real del total y backend m├¡nimo 0.1.28\n- Docs D74: total opcional en los listados y filtro por fecha en devoluci├│n cliente\n- Botones de devoluciones en la pantalla principal\n- Pantalla recepciones redise├▒ada\n- Cambios sobre la reunion 6/11/2026\n- Docs: sincroniza con ACOREMP_APP 8a02c57 (nota de D70: casamiento de recepciones por unidad de entrada, backend 0.1.27)\n- test terminados\n- Cambios para merge\n- arreglos en los tests\n- Commit antes de reunion 6/11\n- Cambios reunion 3/11/2026\n- arreglar bug al entrar en la pantalla no se iba el filtro de cliente"
+}
