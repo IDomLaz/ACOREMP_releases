@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.30",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.30-win-x64/acoremp-backend-0.1.30-win-x64.bin",
+  "asset": "acoremp-backend-0.1.30-win-x64.bin",
+  "size_bytes": 50159744,
+  "sha256_encrypted": "2853a7755f96adc106535cecc19428299bd5cc3eb483c3627d6306f316a5d14f",
+  "sha256_plain": "f61efbb8b72fb5b27d696118c2679bac8bad8e147d20610485004a077107f932",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "de7aab4a44f0204f13500790a946846b430a54b6",
+  "source_tag": "v0.1.30",
+  "published_at": "2026-11-18T07:14:55.2076492Z",
+  "notes": "D76 y D77: GET /items/flows (flujos de stock por defecto de X3), estado por defecto en recepciones y entradas varias, GET /stock?movType= ordenado como la asignación de X3, allowedStatuses y lotCreated. ANTES de instalar: crear en GESAVW YVITMFLW, YVALLRUL, YVSTASTO y la columna LOTCREATED_0 de YVSTO (ver despliegue.md)."
+}
