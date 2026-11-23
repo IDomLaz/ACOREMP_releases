@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.31",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.31-win-x64/acoremp-backend-0.1.31-win-x64.bin",
+  "asset": "acoremp-backend-0.1.31-win-x64.bin",
+  "size_bytes": 50167804,
+  "sha256_encrypted": "c551f4c5cb205b1fc9f7b571dfd1c51e1d27b1636d2d1f1c4c7702e8843a5197",
+  "sha256_plain": "24bda9660dbdd01863c1c8187a5e056bafbb0b7429d26c1997525c7398dfd233",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "34521d0c37b5cbb39ac71e968230e1b324fa6751",
+  "source_tag": "v0.1.31",
+  "published_at": "2026-11-23T09:14:09.6009074Z",
+  "notes": "D78 y D79: caducidad obligatoria con gestion 5 y 6 y fija si el lote ya existe (GET /lots), lotOptional en GET /items y lot_required en POST /receipts y /misc-receipts. ANTES de instalar: crear y validar en GESAVW la vista YVSTOLOT (ver despliegue.md)."
+}
