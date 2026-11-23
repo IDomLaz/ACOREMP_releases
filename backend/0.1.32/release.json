@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.32",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.32-win-x64/acoremp-backend-0.1.32-win-x64.bin",
+  "asset": "acoremp-backend-0.1.32-win-x64.bin",
+  "size_bytes": 50191067,
+  "sha256_encrypted": "bb9191c821acf5368e1648b5de13f169a7fc3ec9dcb045f7f5b56da7c6a0d87a",
+  "sha256_plain": "77f4b835feaca5c480820374f2bcfd18847589cfaa6f06a248416149f1731c83",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "f6270c4236c1c1e9ab3d57f5410eadd7e5aad370",
+  "source_tag": "v0.1.32",
+  "published_at": "2026-11-23T09:56:07.1991775Z",
+  "notes": "D80: filtro item en GET /receipts/orders y /receipts/deliveries (dos consultas) y GET /items/locations con la union de ubicaciones. Sin vistas ni migraciones nuevas."
+}
