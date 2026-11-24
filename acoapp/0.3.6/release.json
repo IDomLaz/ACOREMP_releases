@@ -1,0 +1,21 @@
+{
+  "component": "acoapp",
+  "version": "0.3.6",
+  "arch": "any",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/acoapp-v0.3.6/acoapp-0.3.6.bin",
+  "asset": "acoapp-0.3.6.bin",
+  "size_bytes": 78271154,
+  "sha256_encrypted": "7f67c676efb132c64553694f2a7bbb5476707d254f7aacf802cfed55c3d94ec0",
+  "sha256_plain": "8d155f0e895ae49553a42431d7e9aab75d6a9e6f9bad1698cf86b2db9c89a785",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": null,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_logistica.git",
+  "source_commit": "39e65eaddd3d5f77a0edeb2b9b2d2f9b9a822f0c",
+  "source_tag": "v0.3.6",
+  "published_at": "2026-11-24T09:45:26.4794410Z",
+  "notes": "- PR #13: devoluciones y Cambio de stock sin pantalla de confirmar, aviso al salir, series y sublote por unidad, Entrada varia con el flujo de X3, vales y pedidos de entrega desconectados (D82ÔÇôD90)\n- D81: el equipo propone DA y QA en docs/propuestas.md; las decisiones firmes las escribe quien coordina\n- Documentaci├│n de D80: filtro item en recepciones y GET /items/locations (pendiente en la app, backend 0.1.32); D78 y D79 en decisiones.md\n- Documentaci├│n de D78 y D79: caducidad 5 y 6 obligatoria y fija si el lote existe (GET /lots), lote opcional y lot_required (pendiente en la app, backend 0.1.31)\n- docs/README: sincronizado con el contenedor hasta 2d34611\n- Documentaci├│n de D76 y D77: asignaci├│n de stock por defecto seg├║n X3 (pendiente en la app, backend 0.1.30)\n- Documentaci├│n al d├¡a con el c├│digo y con ACOREMP_APP: D74 y D72 hechos en la app, D65, enlaces propios y copia suelta de backend.md fuera\n- Revisi├│n PR #11: documentaci├│n de D75 y alto de Recepci├│n directa"
+}
