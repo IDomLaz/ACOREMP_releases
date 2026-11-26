@@ -1,0 +1,21 @@
+{
+  "component": "backend",
+  "version": "0.1.33",
+  "arch": "win-x64",
+  "channel": "piloto",
+  "client_id": null,
+  "download_url": "https://github.com/IDomLaz/ACOREMP_releases/releases/download/backend-v0.1.33-win-x64/acoremp-backend-0.1.33-win-x64.bin",
+  "asset": "acoremp-backend-0.1.33-win-x64.bin",
+  "size_bytes": 49484199,
+  "sha256_encrypted": "335d9c90bca1a312bb8c7d5a5fccf3594ca1679de22af1b815d955b3096c4d9e",
+  "sha256_plain": "21d68fdc14a3cfa8b762e8a4be2e4b5d38090580b916039b01b9a5ecdba91c6e",
+  "enc_alg": "aes-256-gcm",
+  "min_from_version": null,
+  "requires_backend": null,
+  "min_schema": 38,
+  "source_repo": "https://github.com/IDomLaz/ACOREMP_backend.git",
+  "source_commit": "b6fdf806db80c3667f8a9cbe7c8524e8249439aa",
+  "source_tag": "v0.1.33",
+  "published_at": "2026-11-26T09:00:18.8831152Z",
+  "notes": "- D92: GET /returns/customer/intercompany (YVSRHPNH) y source-stock (YVSRHSTJ), POST /returns/customer con origen PNH, tandas obligatorias en PNH y lote y cantidad contra el stock del origen (lote vac├¡o sin validar), segmento L con PNHNUM/PNDLIN y casamiento por PNH\n- D91 (0.1.33): b├║squeda de art├¡culos tambi├®n por el c├│digo y la descripci├│n del proveedor: supplierItems en GET /items y q de pedidos, entregas, devolvibles y devoluciones de cliente en dos pasos (YVITMBPS, SupplierItemSearch)"
+}
